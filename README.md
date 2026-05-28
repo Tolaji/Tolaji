@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Tolaji 👋
+# Hi there, I'm Tola Osibo👋
 
 ### Full-Stack Developer · Web & Mobile · Lifelong Learner
 
