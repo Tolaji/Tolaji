@@ -20,7 +20,7 @@ I'm a passionate **full-stack developer** who loves building real-world solution
 - 🛠️ Frameworks & tools: **Next.js, Node.js, React, Express, .NET**
 - 🗄️ Databases: **MySQL, MongoDB, SQLite**
 - 💬 Ask me about **web development, APIs, or getting started in tech**
-- ⚡ Fun fact: I started coding after 40 — and I haven't stopped since!
+- ⚡ Fun fact: I started coding after 48 — and I haven't stopped since!
 
 ---
 
