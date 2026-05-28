@@ -28,7 +28,7 @@ I'm a passionate **full-stack developer** who loves building real-world solution
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tolaji" target="_blank">
+<a href="www.linkedin.com/in/adetokunbo-osibo-a76b4027" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;
